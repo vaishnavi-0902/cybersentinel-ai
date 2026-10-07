@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.ipynb_checkpoints/
+.DS_Store
+models/*.pkl
+models/*.json
+*.db
